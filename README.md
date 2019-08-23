@@ -71,32 +71,32 @@ Mummichog server: http://mummichog-2.appspot.com/ (via http://mummichog.org)
 Other Resources
 ===============
 
-    Metabolic pathways and models
+Metabolic pathways and models
 
-    KEGG: http://www.genome.jp/kegg/kegg2.html
+KEGG: http://www.genome.jp/kegg/kegg2.html
 
-    BioCyc: https://biocyc.org
+BioCyc: https://biocyc.org
 
-    Recon: https://www.vmh.life/#human/all
+Recon: https://www.vmh.life/#human/all
 
-    Metabolite ID conversion
+Metabolite ID conversion
 
-    https://cts.fiehnlab.ucdavis.edu
+https://cts.fiehnlab.ucdavis.edu
 
-    https://www.metaboanalyst.ca/faces/upload/ConvertView.xhtml
+https://www.metaboanalyst.ca/faces/upload/ConvertView.xhtml
 
-    Metabolomics data analysis tools
+Metabolomics data analysis tools
 
-    MetScape: http://metscape.ncibi.org/
+MetScape: http://metscape.ncibi.org/
 
-    MetExplore: https://metexplore.toulouse.inra.fr/
+MetExplore: https://metexplore.toulouse.inra.fr/
 
-    Metabox/Met-DA: http://metda.fiehnlab.ucdavis.edu
+Metabox/Met-DA: http://metda.fiehnlab.ucdavis.edu
 
-    Network visualization tools
+Network visualization tools
 
-    Cytoscape: http://cytoscape.org
+Cytoscape: http://cytoscape.org
 
-    Gehpi: https://gephi.org
+Gehpi: https://gephi.org
 
-    The UAB Metabolomics Workshops: https://www.uab.edu/proteomics/metabolomics/workshop/workshop_july_2018.php
+The UAB Metabolomics Workshops: https://www.uab.edu/proteomics/metabolomics/workshop/workshop_july_2018.php
