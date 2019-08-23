@@ -10,43 +10,43 @@ The course will cover major areas of metabolomics data analysis, including study
 This site will be updated during the course.
 
 ## Day 1.
-    1. Workshop overview, aligning goals and expectations
-    2. Overview of experimental methods and study design in metabolomics, and statistical considerations
-    3. Software - MzMine 2, and sample data
-    4. Preparing data science tools
-    5. Participant presentation and discussion
-    6. Processing software and the landscape of computational metabolomics
-    7. Hand-on session on MzMine 2 and XCMS Online
+1. Workshop overview, aligning goals and expectations
+2. Overview of experimental methods and study design in metabolomics, and statistical considerations
+3. Software - MzMine 2, and sample data
+4. Preparing data science tools
+5. Participant presentation and discussion
+6. Processing software and the landscape of computational metabolomics
+7. Hand-on session on MzMine 2 and XCMS Online
 
 ## Day 2.
-    1. A bioinformatics primer to data science. Using Python and R for data analysis.
-    2. LC-MS metabolomics quality control
-    3. Statistical analysis
-    4. Participant presentation and discussion
-    5. Hand-on session on using interactive command line and using MetaboAnalyst
-    6. Data visualization and presentation
+1. A bioinformatics primer to data science. Using Python and R for data analysis.
+2. LC-MS metabolomics quality control
+3. Statistical analysis
+4. Participant presentation and discussion
+5. Hand-on session on using interactive command line and using MetaboAnalyst
+6. Data visualization and presentation
 
 ## Day 3.
-    1. Application of metabolomics to precision medicine
-    2. Participant presentation and discussion
-    3. Pathway and network analysis
-    4. Hand-on session on pathway and network analysis
-    5. Continued discussion on data visualization and presentation
+1. Application of metabolomics to precision medicine
+2. Participant presentation and discussion
+3. Pathway and network analysis
+4. Hand-on session on pathway and network analysis
+5. Continued discussion on data visualization and presentation
 
 ## Day 4.
-    1. How metabolomics is applied to exposome and environmental health
-    2. Metabolite annotation and reporting
-    3. Review of statistical methods and pathway/network tools
-    4. Hand-on session on MWAS and data presentation
-    5. Participant project discussions
+1. How metabolomics is applied to exposome and environmental health
+2. Metabolite annotation and reporting
+3. Review of statistical methods and pathway/network tools
+4. Hand-on session on MWAS and data presentation
+5. Participant project discussions
 
 ## Day 5.
-    1. Integration of metabolomics in Systems biology
-    2. Model driven integration
-    3. Data driven integration, including Hierarchical community approaches
-    4. Participant presentation and discussion
-    5. Hand-on session of integrative data analysis
-    6. Questions and discussions
+1. Integration of metabolomics in Systems biology
+2. Model driven integration
+3. Data driven integration, including Hierarchical community approaches
+4. Participant presentation and discussion
+5. Hand-on session of integrative data analysis
+6. Questions and discussions
 
 
 Links used in this course
