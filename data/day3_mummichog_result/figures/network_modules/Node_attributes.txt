@@ -1,0 +1,193 @@
+CPD_ID	CPD_NAME	mz_row_Statistic	From_mz_row	From_EmpiricalCompound
+C00217	D-Glutamate; D-Glutamic acid; D-Glutaminic acid; D-2-Aminoglutaric acid	8.04	row5017	E550
+elaidcrn	Elaidic carnitine	9.38	row7896	E52
+C00159	D-Mannose	-4.6	row1009	E582
+C00095	D-Fructose	-4.6	row1009	E582
+C01582	Galactose	-4.6	row1009	E582
+C00577	D-Glyceraldehyde	35.62	row204	E474
+C01029		35.95	row7246	E406
+C16548	N,N-Didesmethyltamoxifen	-7.87	row5946	E727
+C00302	DL-Glutamate; DL-Glutaminic acid; 2-Aminoglutaric acid; Glutamate	8.04	row5017	E550
+C04256	N-Acetyl-D-glucosamine 1-phosphate	-6.21	row5871	E706
+C00352	D-Glucosamine 6-phosphate	11.19	row1586	E708
+hdcecrn	Hexadecenoyl carnitine	17.51	row7894	E639
+C05589	L-Normetanephrine	-4.25	row6217	E308
+CE5536	adrenochrome	-4.6	row1009	E47
+C02990	L-Palmitoylcarnitine	8.63	row6312	E170
+C13747	1,7-Dimethylxanthine; Paraxanthine	-4.6	row1009	E582
+C00170	5-Methylthioadenosine	-6.76	row1881	E121
+tmndnccrn	Timnodonyl carnitine	5.21	row7314	E508
+C00062	L-Arginine	-5.29	row957	E461
+C02336	beta-D-Fructose; beta-Fruit sugar; beta-D-arabino-Hexulose; beta-Levulose; Fructose	-4.6	row1009	E582
+C12144	Phytosphingosine; 4-D-Hydroxysphinganine	-6.65	row7689	E204
+C04376	N2-Formyl-N1-(5-phospho-D-ribosyl)glycinamide	7.19	row6981	E130
+C01005	O-Phospho-L-serine	4.51	row6855	E285
+C00221	beta-D-Glucose	-7.06	row1239	E680
+C00559	Deoxyadenosine	-4.74	row1649	E122
+C09642	(-)-Salsolinol; 6,7-Isoquinolinediol, 1,2,3,4-tetrahydro-1-methyl-, (S)-; Salsolinol	7.88	row1012	E583
+C04593	(2S,3R)-3-Hydroxybutane-1,2,3-tricarboxylate; Methylisocitrate; Methylisocitric acid	7.34	row7358	E8
+C01013	3-Hydroxypropanoate; 3-Hydroxypropanoic acid; 3-Hydroxypropionate; 3-Hydroxypropionic acid; Hydracrylic acid	35.62	row204	E474
+C05649	Dihydropteridine; 6,7-Dihydropteridine	-6.06	row447	E310
+C12214	Aminofructose 6-phosphate; Amino-D-fructose 6-phosphate	11.19	row1586	E708
+C05796	Galactan	-6.25	row7023	E746
+C06377	D-Galactosamine 6-phosphate	11.19	row1586	E708
+C00137	myo-Inositol	-4.6	row1009	E582
+C02291	L-Cystathionine	-5.44	row5780	E218
+C00049	L-Aspartate	-4.6	row428	E201
+C05634	5-Hydroxyindoleacetaldehyde	4.53	row966	E563
+C00491	L-Cystine; L-Dicysteine; L-alpha-Diamino-beta-dithiolactic acid	5.21	row5046	E561
+C01620		24.79	row4993	E442
+C03824	2-Aminomuconate 6-semialdehyde	8.28	row6439	E41
+C03758	Dopamine	4.06	row965	E263
+C00051	Reduced glutathione	-20.98	row1837	E788
+C05844	5-L-Glutamyl-taurine	24.14	row1564	E68
+C00645	N-Acetyl-D-mannosamine; 2-Acetamido-2-deoxy-D-mannose	4.7	row1362	E726
+C00795	D-Tagatose; lyxo-Hexulose	-4.6	row1009	E582
+C01074	N-Acetylgalactosamine; N-Acetylchondrosamine; 2-Acetamido-2-deoxygalactose; GalNAc	-6.72	row7261	E139
+C05674	CMP-N-trimethyl-2-aminoethylphosphonate; CMP-2-trimethylaminoethylphosphonate	16.78	row7697	E593
+CE5627	salsoline-1-carboxylate	6.75	row7841	E676
+CE5541	adrenochrome o-semiquinone	-4.6	row1009	E582
+C00352	D-Glucosamine 6-phosphate	-4.57	row1695	E744
+tetpent6	tetracosapentaenoic acid, n-6	6.7	row6578	E396
+C16595	4-Hydroxy-5-phenyltetrahydro-1,3-oxazin-2-one	9.23	row1333	E422
+C00184	Dihydroxyacetone	35.62	row204	E474
+C03740	5-L-Glutamyl-L-alanine	9.64	row6259	E373
+C05520	2-Amino-3-oxoadipate; 2-Amino-3-oxohexanedioic acid	10.41	row962	E480
+C00247	L-Sorbose; L-xylo-Hexulose	-4.6	row1009	E582
+C00542	Cystathionine	-8.17	row1370	E225
+C01801	Deoxyribose	-6.06	row447	E310
+C00186	L-Lactate	35.62	row204	E474
+C00074	Phosphoenolpyruvate	5.19	row7789	E86
+C01132	N-Acetyl-D-galactosamine	-6.72	row7261	E139
+C05198	5'-Deoxyadenosine	-4.74	row1649	E122
+C00780	Serotonin	14.27	row6211	E462
+ttdcrn	tetradecanoyl carnitine	5.32	row7026	E359
+C05839	cis-beta-D-Glucosyl-2-hydroxycinnamate; beta-D-Glucosyl-2-coumarinate	-7.68	row1994	E107
+C00398	Tryptamine	-4.25	row6217	E109
+C01045	N-Formyl-L-glutamate	10.41	row962	E480
+C00031	D-Glucose	-7.06	row1239	E680
+C00962	beta-D-Galactose	-7.06	row1239	E680
+C00256	D-Lactate	35.62	row204	E474
+vacccrn	Vaccenyl carnitine	9.38	row7896	E52
+C00330	Deoxyguanosine	4.83	row1616	E54
+C02918	1-Methylnicotinamide	4.67	row6770	E552
+C00124	D-Galactose	-4.6	row1009	E582
+C00402	D-Aspartate	-4.6	row428	E201
+C00612	N1-Acetylspermidine	35.95	row7246	E406
+C00504	Folate	5.75	row2294	E155
+C00795	D-Tagatose; lyxo-Hexulose	-7.06	row1239	E680
+C00357	N-Acetyl-D-glucosamine 6-phosphate	-6.21	row5871	E706
+C00984	alpha-D-Galactose	-4.6	row1009	E582
+C00738	D-Hexose	-4.6	row1009	E582
+C00095	D-Fructose	-7.06	row1239	E680
+C00262	Hypoxanthine	24.79	row4993	E442
+C02220	2-Aminomuconate	12.44	row5498	E386
+C00385	Xanthine	4.02	row7817	E526
+CE0520	(R)-glycerol 1-acetate	-6.06	row447	E310
+C16582	2-Hydroxyfelbamate	-4.17	row1666	E126
+C00645	N-Acetyl-D-mannosamine; 2-Acetamido-2-deoxy-D-mannose	-6.72	row7261	E139
+C00542	Cystathionine	-5.44	row5780	E218
+C00954	Indole-3-acetate	4.53	row966	E563
+clpndcrn	clupanodonyl carnitine	-5.12	row2359	E489
+C05634	5-Hydroxyindoleacetaldehyde	4.06	row965	E600
+C00725	Lipoate; Lipoic acid; alpha-Lipoic acid; Thioctic acid	7.34	row7358	E8
+tetpent3	tetracosapentaenoic acid, n-3	6.7	row6578	E396
+C05648	5-Hydroxy-N-formylkynurenine; 5-Hydroxy-N-formyl-L-kynurenine	-6.25	row1654	E731
+CE4839	6,9,12,15,18-all-cis-tetracosapentaenoate	6.7	row6578	E396
+C00221	beta-D-Glucose	-4.6	row1009	E582
+hpdcacrn	heptadecanoyl carnitine	4.14	row5993	E692
+C16584	p-Hydroxyfelbamate	-4.17	row1666	E126
+C00127	Oxidized glutathione	-4.96	row2514	E493
+C04257	N-Acetyl-D-mannosamine 6-phosphate; N-Acetylmannosamine 6-phosphate	-6.21	row5871	E706
+C00319	Sphingosine	-5.48	row1798	E84
+C06868	Carbamazepine	6.75	row7841	E676
+C00504	Folate	5.33	row2238	E155
+C00127	Oxidized glutathione	-93.14	row2490	E17
+C01074	N-Acetylgalactosamine; N-Acetylchondrosamine; 2-Acetamido-2-deoxygalactose; GalNAc	11.31	row7931	E139
+C00984	alpha-D-Galactose	-7.06	row1239	E680
+C12214	Aminofructose 6-phosphate; Amino-D-fructose 6-phosphate	-4.57	row1695	E744
+C00293	Glucose	-7.06	row1239	E680
+C02225	2-Methylcitrate; 2-Hydroxybutane-1,2,3-tricarboxylate; (2R,3S)-2-Hydroxybutane-1,2,3-tricarboxylate	7.34	row7358	E8
+C00239	dCMP	9.75	row7687	E537
+C00025	L-Glutamate	8.04	row5017	E550
+C00792	D-Arginine; D-2-Amino-5-guanidinovaleric acid	-5.29	row957	E461
+C03150	N-Ribosylnicotinamide	-11.48	row1566	E415
+C00624	N-Acetyl-L-glutamate; N-Acetyl-L-glutamic acid	4.97	row5632	E729
+C00315	Spermidine	6.45	row591	E688
+C00836	Sphinganine	-6.63	row1810	E371
+C00159	D-Mannose	-7.06	row1239	E680
+C05401	3-beta-D-Galactosyl-sn-glycerol; Galactosylglycerol	19.1	row7847	E780
+CE7072	13'-carboxy-gama-tocotrienol	7.59	row2289	E166
+C00362	dGMP	7.89	row7591	E340
+C01613	Stachyose	5.72	row7188	E610
+C00051	Reduced glutathione	-19.16	row1831	E290
+C00051	Reduced glutathione	-12.64	row1909	E788
+C00954	Indole-3-acetate	4.06	row965	E600
+C00120	Biotin; D-Biotin; Vitamin H; Coenzyme R	-4.81	row6928	E231
+C00031	D-Glucose	-4.6	row1009	E582
+C02336	beta-D-Fructose; beta-Fruit sugar; beta-D-arabino-Hexulose; beta-Levulose; Fructose	-7.06	row1239	E680
+C00718	Amylose; Amylose chain; (1,4-alpha-D-Glucosyl)n; (1,4-alpha-D-Glucosyl)n+1; (1,4-alpha-D-Glucosyl)n-1; 4-{(1,4)-alpha-D-Glucosyl}(n-1)-D-glucose; 1,4-alpha-D-Glucan	-6.25	row7023	E746
+C00364	dTMP	4.13	row7995	E448
+C02712	N-Acetylmethionine	-10.96	row5035	E99
+C00147	Adenine	5.58	row453	E736
+C02291	L-Cystathionine	-8.17	row1370	E225
+C00267	alpha-D-Glucose	-7.06	row1239	E680
+CE5586	dehydrospermidine	6.45	row591	E688
+C00785	Urocanate	6.61	row7811	E5
+CE1310	N-acetyl-L-cysteine	-9.18	row793	E36
+C16582	2-Hydroxyfelbamate	-8.05	row1667	E665
+C01185	Nicotinate D-ribonucleotide	6.12	row7886	E689
+C07030		-11.6	row6035	E251
+C00738	D-Hexose	-7.06	row1239	E680
+C00212	Adenosine	4.83	row1616	E54
+C00788	L-Adrenaline; (R)-(-)-Adrenaline; (R)-(-)-Epinephrine; (R)-(-)-Epirenamine; (R)-(-)-Adnephrine; 4-[(1R)-1-Hydroxy-2-(methylamino)ethyl]-1,2-benzenediol	-4.25	row6217	E308
+C00499	Allantoate; Allantoic acid	10.41	row962	E244
+C01042	N-Acetyl-L-aspartate	10.41	row962	E480
+odecrn	octadecenoyl carnitine	9.38	row7896	E52
+C01551	Allantoin; 5-Ureidohydantoin; Glyoxyldiureide	12.44	row5498	E320
+C00140	N-Acetyl-D-glucosamine	4.7	row1362	E726
+C03758	Dopamine	-4.87	row964	E439
+C16584	p-Hydroxyfelbamate	-8.05	row1667	E665
+C04501	N-Acetyl-D-glucosamine 1-phosphate	-6.21	row5871	E706
+C03373	5-amino-1-(5-phospho-D-ribosyl)imidazole	4.46	row6957	E81
+C01582	Galactose	-7.06	row1239	E680
+C00247	L-Sorbose; L-xylo-Hexulose	-7.06	row1239	E680
+C01132	N-Acetyl-D-galactosamine	4.7	row1362	E726
+C16587	3-Carbamoyl-2-phenylpropionaldehyde	9.23	row1333	E422
+C05938	L-4-Hydroxyglutamate semialdehyde	8.04	row5017	E550
+dcsptn1crn	docosa-4,7,10,13,16-pentaenoyl carnitine	-5.12	row2359	E489
+C02052	Maltotetraose	5.72	row7188	E610
+C00020	AMP	7.89	row7591	E340
+C00645	N-Acetyl-D-mannosamine; 2-Acetamido-2-deoxy-D-mannose	11.31	row7931	E139
+C00643	5-Hydroxy-L-tryptophan	-14.27	row1354	E37
+hdd2crn	trans-Hexadec-2-enoyl carnitine	17.51	row7894	E639
+C01132	N-Acetyl-D-galactosamine	11.31	row7931	E139
+C00942	3',5'-Cyclic GMP	4.13	row7995	E485
+C03758	Dopamine	4.53	row966	E283
+C00147	Adenine	12.44	row5498	E154
+1mncam	1-Methylnicotinamide	4.67	row6770	E552
+C00267	alpha-D-Glucose	-4.6	row1009	E582
+C00962	beta-D-Galactose	-4.6	row1009	E582
+C02934	3-Dehydrosphinganine	-5.48	row1798	E84
+C06376	N-Acetyl-D-galactosamine 6-phosphate	-6.21	row5871	E706
+C00921	Dihydropteroate; 7,8-Dihydropteroate	-6.39	row1947	E332
+C00294	Inosine	42.09	row7975	E662
+C02532	D-O-Phosphoserine	4.51	row6855	E285
+C00140	N-Acetyl-D-glucosamine	11.31	row7931	E139
+C00124	D-Galactose	-7.06	row1239	E680
+C05841	Nicotinate D-ribonucleoside	6.21	row7848	E238
+CE5856	9'-carboxy-alpha-chromanol	46.37	row7893	E309
+C00327	L-Citrulline; 2-Amino-5-ureidovaleric acid; Citrulline	42.97	row7236	E196
+C00378	Thiamin	6.85	row1610	E304
+C00128	CMP-N-acetylneuraminate	-9.51	row5121	E189
+C03824	2-Aminomuconate 6-semialdehyde	-6.59	row825	E679
+C06377	D-Galactosamine 6-phosphate	-4.57	row1695	E744
+C00293	Glucose	-4.6	row1009	E582
+C07501	Felbamate	-4.8	row6256	E684
+C07480		-4.6	row1009	E582
+C00936		-7.06	row1239	E680
+C00137	myo-Inositol	-7.06	row1239	E680
+C00140	N-Acetyl-D-glucosamine	-6.72	row7261	E139
+C16609	Didemethylcitalopram	82.05	row7867	E83
+C01074	N-Acetylgalactosamine; N-Acetylchondrosamine; 2-Acetamido-2-deoxygalactose; GalNAc	4.7	row1362	E726
+C00936		-4.6	row1009	E582
