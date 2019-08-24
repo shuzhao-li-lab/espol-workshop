@@ -10,11 +10,12 @@ Day 1 focus is overview, metabolomics data preprocessing and preparing for data 
   - Metabolite reporting standards
   - Discussion of research projects
 
-2. Overview of experimental methods and study design in metabolomics, and statistical considerations (60 minutes)
+2. Overview of metabolomics, current opportunities and challenges (60 minutes)
+
 
 *15 minutes break*
 
-3. Software - MzMine 2, and sample data
+3. Preparing software - MzMine 2, and sample data
 
 [Sample data, human plasma metabolomics, netCDF format in profile mode, 111 MB]
 http://mummichog.org/shuzhao/public/cdf_std_samples_shuzhao_20140709.zip

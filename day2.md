@@ -28,7 +28,9 @@ Using Python and R notebooks from the supplement site.
 
 3. Statistical analysis
 
-Study design. Randomization. Cofounders. 
+Study design. Randomization. Cofounders.
+
+experimental methods and study design in metabolomics, and statistical considerations
 
 Using Gardinassi et al as guide.
 

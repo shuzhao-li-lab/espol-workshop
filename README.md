@@ -11,8 +11,8 @@ This site will be updated during the course.
 
 ## Day 1.
 1. Workshop overview, aligning goals and expectations
-2. Overview of experimental methods and study design in metabolomics, and statistical considerations
-3. Software - MzMine 2, and sample data
+2. Overview of metabolomics, current opportunities and challenges
+3. Preparing software - MzMine 2, and sample data
 4. Preparing data science tools
 5. Participant presentation and discussion
 6. Processing software and the landscape of computational metabolomics
