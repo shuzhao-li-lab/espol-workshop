@@ -16,7 +16,7 @@ Day 1 focus is overview, metabolomics data preprocessing and preparing for data 
 
 3. Software - MzMine 2, and sample data
 
-[Sample data, human plasma metabolomics, netCDF format, 111 MB]
+[Sample data, human plasma metabolomics, netCDF format in profile mode, 111 MB]
 http://mummichog.org/shuzhao/public/cdf_std_samples_shuzhao_20140709.zip
 
 [MzMine 2]

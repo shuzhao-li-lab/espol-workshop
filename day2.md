@@ -28,6 +28,8 @@ Using Python and R notebooks from the supplement site.
 
 3. Statistical analysis
 
+Study design. Randomization. Cofounders. 
+
 Using Gardinassi et al as guide.
 
 

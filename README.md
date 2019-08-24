@@ -71,6 +71,9 @@ Mummichog server: http://mummichog-2.appspot.com/ (via http://mummichog.org)
 Other Resources
 ===============
 
+MSconvert, part of proteowizard, for converting mass spectrometry data to open formats:
+http://proteowizard.sourceforge.net/download.html
+
 Metabolic pathways and models
 
 KEGG: http://www.genome.jp/kegg/kegg2.html
