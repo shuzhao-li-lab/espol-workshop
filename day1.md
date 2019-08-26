@@ -15,6 +15,8 @@ Day 1 focus is overview, metabolomics data preprocessing and preparing for data 
 
 *15 minutes break*
 
+**Setting up work groups**
+
 3. Preparing software - MzMine 2, and sample data
 
 [Sample data, human plasma metabolomics, netCDF format in profile mode, 111 MB]
@@ -52,7 +54,8 @@ The directory after "-v" is my working directory, and you should change to yours
 
 7. Hand-on session on MzMine 2 and XCMS Online
 
-[MzMine 2 Tutorial at UAB website]
+[MzMine 2 Tutorial at UAB website, two lectures in PDF by Prof. Xiuxia Du]
+https://www.uab.edu/proteomics/metabolomics/workshop/2018/day2/intro_to_data_preprocessing.pdf
 https://www.uab.edu/proteomics/metabolomics/workshop/2018/day2/Hands-on%20analysis%20with%20MZmine%202.pdf
 
 [XCMS Online]
