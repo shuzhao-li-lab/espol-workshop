@@ -18,10 +18,9 @@ Day 2 focus is data science tools, and basic statistical analyses.
 
 In-depth tutorials are found at https://software-carpentry.org/lessons/.
 
-2. LC-MS metabolomics quality control
+2. Live session of Jupyter Notebook.
 
-Using Python and R notebooks from the supplement site.
-
+Basic data analysis and plotting.
 
 *15 minutes break*
 
@@ -30,9 +29,26 @@ Using Python and R notebooks from the supplement site.
 
 Study design. Randomization. Confounders.
 
-experimental methods and study design in metabolomics, and statistical considerations
-
 Using Gardinassi et al as guide.
+
+Parametric vs nonparametric
+
+t-test, ANOVA, linear regression
+
+
+4. Hand-on session, statistical analysis using Jupyter Notebook.
+
+Advanced references:
+
+https://docs.scipy.org/doc/scipy/reference/stats.html#module-scipy.stats
+
+https://www.statsmodels.org/stable/generated/statsmodels.stats.multitest.multipletests.html
+
+
+5. Hand-on session, statistical analysis using MetaboAnalyst
+
+MetaboAnalyst: https://www.metaboanalyst.ca
+
 
 
 *Lunch break*
@@ -42,9 +58,9 @@ Using Gardinassi et al as guide.
 
 
 
-5. Hand-on session on using interactive command line and using MetaboAnalyst
+5. LC-MS metabolomics quality control
 
-MetaboAnalyst: https://www.metaboanalyst.ca
+Using Python and R notebooks from the supplement site.
 
 
 *15 minutes break*
@@ -55,17 +71,25 @@ MetaboAnalyst: https://www.metaboanalyst.ca
 Galleries to browse:
 
 - Javascript charts
+
 https://developers.google.com/chart/interactive/docs/gallery
+
 https://github.com/d3/d3/wiki/gallery
 
 - R ggplot2
+
 https://r4ds.had.co.nz/data-visualisation.html
+
 http://www.ggplot2-exts.org/gallery/
 
 - Python Matplotlib
+
 https://matplotlib.org/gallery.html
+
 https://seaborn.pydata.org/examples/index.html
 
 - Complex genomics inspired tools
+
 http://circos.ca/images/published/
+
 http://caleydo.org/tools/
