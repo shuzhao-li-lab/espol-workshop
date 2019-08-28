@@ -20,33 +20,37 @@ This site will be updated during the course.
 
 ## Day 2.
 1. A bioinformatics primer to data science. Using Python and R for data analysis.
-2. LC-MS metabolomics quality control
-3. Statistical analysis
-4. Participant presentation and discussion
-5. Hand-on session on using interactive command line and using MetaboAnalyst
-6. Data visualization and presentation
+2. Live session of Jupyter Notebook.
+3. Statistical analysis - overview
+4. Hand-on session, statistical analysis using Jupyter Notebook.
+5. Hand-on session, statistical analysis using MetaboAnalyst
+6. Participant presentation and discussion
+7. LC-MS metabolomics quality control
+8. Data visualization and presentation
 
 ## Day 3.
-1. Application of metabolomics to precision medicine
-2. Participant presentation and discussion
-3. Pathway and network analysis
-4. Hand-on session on pathway and network analysis
-5. Continued discussion on data visualization and presentation
+1. Study case of YFV infection of immune cells
+2. Metabolomics Databases and searches
+3. Starting hand-on pathway analysis - Using KEGG and MetaboAnalyst
+4. Pathway and network analysis - lecture
+5. Continued hand-on session on pathway and network analysis
+6. Cytoscape and Metscape
 
 ## Day 4.
-1. How metabolomics is applied to exposome and environmental health
+1. Application of metabolomics to precision medicine
 2. Metabolite annotation and reporting
-3. Review of statistical methods and pathway/network tools
+3. How metabolomics is applied to exposome and environmental health
 4. Hand-on session on MWAS and data presentation
 5. Participant project discussions
 
 ## Day 5.
-1. Integration of metabolomics in Systems biology
-2. Model driven integration
-3. Data driven integration, including Hierarchical community approaches
-4. Participant presentation and discussion
-5. Hand-on session of integrative data analysis
-6. Questions and discussions
+1. Review of metabolomic workflow
+2. Review of statistical analysis
+3. Review of pathway and network analysis
+4. Review of data presentation, visualization methods
+5. Integration of metabolomics in Systems biology - lecture
+6. Concluding workshop.
+
 
 
 Links used in this course
@@ -55,7 +59,7 @@ Links used in this course
 Jupyter notebook:
 https://jupyter.readthedocs.io/en/latest/content-quickstart.html
 
-Anaconda, a software distribution for Python/R data science:
+Anaconda, a software distribution for Python/R data science (Use Python 3 for this workshop):
 https://www.anaconda.com/distribution/
 
 MzMine 2, metabolomics data pre-processing

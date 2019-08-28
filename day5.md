@@ -23,11 +23,11 @@ Questions and discussions are imbedded in each session.
 *Lunch break*
 
 
-4. Integration of metabolomics in Systems biology
+5. Integration of metabolomics in Systems biology
 
 This includes multi-omics integration, model driven approaches, and data driven approaches.
 
 We will also review the Hierarchical community network approaches.
 
 
-5. Wrap up, concluding workshop.
+6. Wrap up, concluding workshop.

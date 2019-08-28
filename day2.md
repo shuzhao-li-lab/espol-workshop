@@ -54,11 +54,11 @@ MetaboAnalyst: https://www.metaboanalyst.ca
 *Lunch break*
 
 
-4. Participant presentation and discussion
+6. Participant presentation and discussion
 
 
 
-5. LC-MS metabolomics quality control
+7. LC-MS metabolomics quality control
 
 Using Python and R notebooks from the supplement site.
 
@@ -66,7 +66,7 @@ Using Python and R notebooks from the supplement site.
 *15 minutes break*
 
 
-6. Data visualization and presentation
+8. Data visualization and presentation
 
 Galleries to browse:
 
