@@ -11,6 +11,30 @@ To understand the full process of a project.
 
 2. Metabolomics Databases and searches
 
+HMDB
+http://www.hmdb.ca
+
+METLIN
+https://metlin.scripps.edu/
+
+MassBank
+https://massbank.eu
+
+MoNA
+http://mona.fiehnlab.ucdavis.edu
+
+mzCloud (focus high-res data)
+https://www.mzcloud.org/
+
+LIPID MAP
+https://www.lipidmaps.org/
+
+Golm (GC-MS, plant emphasis)
+http://gmd.mpimp-golm.mpg.de/
+
+KNApSAcK (plant centric)
+http://www.knapsackfamily.com/KNApSAcK/
+
 
 *15 minutes break*
 
