@@ -41,8 +41,8 @@ http://www.knapsackfamily.com/KNApSAcK/
 
 3. Starting hand-on pathway analysis
 
-> Using KEGG and MetaboAnalyst
-> Use ForPathwayAnalysis_targeted_significant_list
+  - Using KEGG and MetaboAnalyst
+  - Use ForPathwayAnalysis_targeted_significant_list
 
 
 4. Pathway and network analysis - general principles
@@ -55,7 +55,7 @@ http://www.knapsackfamily.com/KNApSAcK/
 5. Continued hand-on session on pathway and network analysis
 
 Please use the day3_handon_execuable.ipynb notebook.
-Try to reproduce the results on the notebook on your own.
+Try to reproduce the results on the notebook.
 
 
 *15 minutes break*
@@ -67,7 +67,11 @@ Download and install Cytoscape from
 https://cytoscape.org/ .
 
 Install MetScape within Cytoscape -
-  go to Apps, search for MetScape and install as an App to Cytoscape.
+  go to Apps then App Manager, search for MetScape and install as an App to Cytoscape.
+
+Click Apps/MetScape "Build networks" to use.
+
+We will use the same list of metabolites in Part 3 for this as input.
 
 http://metscape.ncibi.org/files.html
 
