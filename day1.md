@@ -58,6 +58,28 @@ The directory after "-v" is my working directory, and you should change to yours
 https://www.uab.edu/proteomics/metabolomics/workshop/2018/day2/intro_to_data_preprocessing.pdf
 https://www.uab.edu/proteomics/metabolomics/workshop/2018/day2/Hands-on%20analysis%20with%20MZmine%202.pdf
 
+
+- MZmine 2 for Preprocessing, converting raw data to 3-D data, m/z, retention time, intensity
+
+*Using example .cdf files for this workshop*
+* Converting from profile to centroid mode:
+             Raw data method -> feature detection -> mass detection (wavelet)
+
+* Constructing chromatogram
+             Raw data method -> feature detection -> ADAP chromatogram builder
+
+
+* Feature list methods -> feature detection -> chromatogram deconvolution
+
+* alignment
+ Feature list methods -> Alignment -> RANSAC
+
+* export data to text format
+ Feature list methods -> Export/Import -> Export to csv file
+
+
+
+
 [XCMS Online]
 https://xcmsonline.scripps.edu/
 Requiring free registration.
