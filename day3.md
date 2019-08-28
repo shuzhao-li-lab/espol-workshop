@@ -17,13 +17,15 @@ To understand the full process of a project.
 
 3. Starting hand-on pathway analysis
 
-Using KEGG and MetaboAnalyst
+> Using KEGG and MetaboAnalyst
+> Use ForPathwayAnalysis_targeted_significant_list
 
 
-4. Pathway and network analysis - lecture
-
+4. Pathway and network analysis - general principles
 
 *Lunch break*
+
+4. Pathway and network analysis - mummichog
 
 
 5. Continued hand-on session on pathway and network analysis
@@ -40,13 +42,10 @@ Try to reproduce the results on the notebook on your own.
 Download and install Cytoscape from
 https://cytoscape.org/ .
 
-Install MetScape within Cytoscape.
+Install MetScape within Cytoscape -
+  go to Apps, search for MetScape and install as an App to Cytoscape.
 
 http://metscape.ncibi.org/files.html
 
-
-Use
-
-ForPathwayAnalysis_targeted_significant_list
 
 Continued discussion on data visualization and presentation
