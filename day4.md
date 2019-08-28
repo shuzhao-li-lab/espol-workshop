@@ -1,19 +1,23 @@
 # Day 4 schedule
 
-Day 4 focus is the execution of research projects and writing scientific manuscripts.
+Day 4 focus is biomedical applications.
 
 
-1. How metabolomics is applied to exposome and environmental health (60 minutes)
-
-
-2. Metabolite annotation and reporting
+1. Application of metabolomics to precision medicine
 
 
 *15 minutes break*
 
 
-3. Review of statistical methods and pathway/network tools
+2. Metabolite annotation and reporting
 
+Important to the execution of research projects and writing scientific manuscripts.
+
+
+3. How metabolomics is applied to exposome and environmental health
+
+
+*Lunch break*
 
 
 4. Hand-on session on MWAS and data presentation
@@ -26,7 +30,8 @@ The data were prepared for this exercise:
 In real world situations, one needs to wrangle the data to the correct formats. An example is provided as
   * day4_extra_reference_data_wrangling.html
 
-*Lunch break*
+
+*15 minutes break*
 
 
 5. Participant project discussions
