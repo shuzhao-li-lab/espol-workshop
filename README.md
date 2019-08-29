@@ -41,16 +41,16 @@ This site will be updated during the course.
 ## Day 4.
 1. Application of metabolomics to precision medicine
 2. Metabolite annotation and reporting
-3. How metabolomics is applied to exposome and environmental health
+3. Review of statistical analysis
 4. Hand-on session on MWAS and data presentation
 5. Participant project discussions
 
 ## Day 5.
 1. Review of metabolomic workflow
-2. Review of statistical analysis
-3. Review of pathway and network analysis
-4. Review of data presentation, visualization methods
-5. Integration of metabolomics in Systems biology - lecture
+2. How metabolomics is applied to exposome and environmental health
+3. Integration of metabolomics in Systems biology
+4. Review of pathway and network analysis
+5. Review of data presentation, visualization methods
 6. Concluding workshop.
 
 
