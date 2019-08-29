@@ -14,7 +14,25 @@ Day 4 focus is biomedical applications.
 Important to the execution of research projects and writing scientific manuscripts.
 
 
-3. How metabolomics is applied to exposome and environmental health
+3. Review of statistical analysis
+
+- Group comparison
+  - assuming normal distribution, use parametric tests
+    - 2 groups, Student t-test
+    - 2 groups, to include confounders, Logistic regression
+    - more groups, ANOVA
+  - not assuming distribution, use nonparametric tests
+    - Mann Whitney U test
+  - Shrinkage methods often used in specialized software tools for -omics
+
+- Association with continuous variables
+  - without accounting for confounders, use correlation methods
+    - Pearson correlation
+    - Spearman rank correlation
+  - accounting for confounders, use generalized linear models for regression
+    - multiple specialized regression methods, e.g. LASSO and Elastic Net, not covered here.
+
+- FDR, FDR, FDR
 
 
 *Lunch break*

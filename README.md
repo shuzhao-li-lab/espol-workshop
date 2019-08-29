@@ -8,6 +8,8 @@ The field of metabolomics is undergoing an explosive growth, due to the enormous
 The course will cover major areas of metabolomics data analysis, including study design, data processing, statistical and pathway analysis, integration with other data types and data presentation. Brief introduction will be given to related topics of precision medicine, exposome and big data analytics.
 
 This site will be updated during the course.
+* Because it's easier to download the whole site from GitHub than individual files, consider re-downloading this workshop site each morning to get the newer files.
+* For Jupyter notebooks, please shut down a notebook (kernel) after you finish with it. Each kernel cost computer resources!
 
 ## Day 1.
 1. Workshop overview, aligning goals and expectations
