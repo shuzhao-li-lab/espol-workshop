@@ -45,8 +45,10 @@ Questions and discussions are imbedded in each session.
 
 4. Integration of metabolomics in Systems biology
 
-This includes multi-omics integration, model driven approaches, and data driven approaches.
-
+Two lines of approaches are commonly used: model driven and data driven.
+Metabolic pathways and
+genome scale metabolic models are often used to connect metabolites and enzymes. As enzymes are coded by genes, this connects to proteins and genes.
+Many multi-omics integration methods utilize PLS, to accommodate the variance structures from different data types.
 We will also review the Hierarchical community network approaches.
 
 
@@ -54,6 +56,10 @@ We will also review the Hierarchical community network approaches.
 
 
 5. Review of pathway and network analysis
+
+Two types of workflows here: annotation based pathway and network mapping and enrichment analysis, mummichog based approach to predict significant pathways/network modules first, followed by metabolite identification.
+
+Networks are also the workhorse of data integration.
 
 
 6. Review of Jupyter notebooks, data presentation, visualization methods
